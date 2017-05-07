@@ -1,0 +1,56 @@
+<section id="news">
+	<!-- Page Content -->
+
+	<div class="container">
+
+		<div class="row">
+
+			<h1>NEWS</h1>
+
+			<div class="col-md-6 features-leftcol wp2">
+				{% assign count = 0 %}
+				{% assign post_n = {{site.posts | size}} %}
+
+				{% for post in site.posts %}
+
+				{% assign i = count %}
+				{% capture i %}{{ i | minus:5 }}{% endcapture %}
+
+				{% if i contains '-' %}
+				<h3>{{ post.title }}</h3>
+				<ul>
+					<li> {{ post.content }} </li>
+				</ul>
+				{% endif %}
+
+				{% capture count %}{{ count | plus:1 }}{% endcapture %}
+				{% endfor %}
+			</div>
+
+			<div class="col-md-6 features-rightcol wp3">
+
+				{% assign count = 8 %}
+
+				{% for post in site.posts %}
+
+				{% assign i = count %}
+				{% capture i %}{{ i | minus:4 }}{% endcapture %}
+
+				{% if i contains '-' %}
+				<h3>{{ post.title }}</h3>
+				<ul>
+					<li> {{ post.content }} </li>
+				</ul>
+				{% endif %}
+
+				{% capture count %}{{ count | minus:1 }}{% endcapture %}
+				{% endfor %}
+			</div>
+
+
+		</div>
+
+	</div>
+
+
+</section>
