@@ -1,0 +1,6 @@
+---
+layout: default
+category: update
+title: May 23, 2017 
+---
+Had a short vacation back in Taiwan. Now it's time to back to work :).

@@ -3,4 +3,4 @@ layout: default
 category: update
 title: Feb. 21, 2017 
 ---
-Go to Detroit for CEN workshop.
+Go to Detroit for CEN workshop, a workshop helping local people on technology uses.
