@@ -2,14 +2,20 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://joeyhsiao.info
 title: Joey Chiao-Yin Hsiao
 email: jcyhsiao@umich.edu
-author: Joey Chiao-Yin Hsiao
-description: > # "Write an awesome description for your new site here. 
+author: Joey Chiao-Yin Hsiao, Joey Hsiao, Chiao-Yin Hsiao
+description: 'I am Joey Chiao-Yin Hsiao. I am a Ph.D. candidate at the School of Information, University of Michigan. I am interested in research in broad HCI and CSCW. My research is focused on how location-based social applications, such as people-nearby applications and sharing economy applications, can support newcomers in adapting to a new environment.'
 copyright: 'Copyright &copy; 2018 Joey Hsiao. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
-
+keywords:
+  - HCI
+  - CSCW
+  - location-based social media
+  - people-nearby application
+  - sharing economy
+  - hybrid community
 
 # ----------------------- #
 #    Jekyll & Plugins     #
