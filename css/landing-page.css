@@ -25,15 +25,21 @@ h6 {
 #about{
     background: url(../img/profile.jpg) no-repeat left 5px; 
 	background-size:50%;
-	padding-top: 50px;
-	padding-bottom: 100px;	
+	padding-top: 30px;
+	padding-bottom: 70px;	
+	font-size: 16px;
+}
+
+#projects{
+	padding-top: 30px;
+	padding-bottom: 70px;	
 	font-size: 16px;
 }
 
 
 #publications{
-	padding-top: 50px;
-	padding-bottom: 100px;	
+	padding-top: 30px;
+	padding-bottom: 70px;	
 	font-size: 16px;
 }
 
@@ -47,8 +53,6 @@ h6 {
     font-size: 18px;
     font-weight: 100;
 }
-
-
 
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
@@ -130,6 +134,24 @@ h6 {
     width: 200px;
     border-top: 3px solid #e7e7e7;
 }
+
+
+div.project-info{
+	padding-top:15px;
+}
+
+div.project-info:after{
+    border-bottom: 3px dotted lightgrey;
+	padding-bottom:15px;
+	margin-left:30%;
+	width: 40%;
+}
+
+div.project-img img{
+	padding-top:50px;
+    width:75%;
+}
+
 
 .banner {
     padding: 100px 0;

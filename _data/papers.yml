@@ -1,0 +1,41 @@
+- paper:
+  authors: <b>Hsiao, J. C.-Y.</b> and Dillahunt, T. R.
+  title: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
+  year: "2018"
+  venue: "To Appear in CSCW'18"
+  info: "AC rate: 25.6%"
+
+- paper:
+  authors: <b>Hsiao, J. C.-Y.</b>, Moser, C., Schoenebeck, S., and Dillahunt, T. R.    
+  title: "The Role of Demographics, Trust, Computer Self-efficacy, and Ease of Use in the Sharing Economy"
+  year: "2018"
+  venue: In <i>Proc. of COMPASS'18</i>
+  info: "Presenter"
+  file:
+    - url: "Hsiao_COMPASS18.pdf"
+
+- paper:
+  authors: <b>Hsiao, J. C.-Y.</b>, and Dillahunt, T. R.
+  title: "People-Nearby Applications: How Newcomers Move Their Relationships Offline and Develop Social and Cultural Capital"
+  year: "2017"
+  venue: In <i>Proc. of CSCW'17</i> 
+  info: "AC rate: 33%; Presenter"
+  file:
+    - url: "Hsiao_CSCW17.pdf"
+
+- paper:
+  authors: Rajan, R., <b>Hsiao, J. C.-Y.</b>, Lahoti, D., and Selker, T.
+  title: "Roger that! - The Value of Adding Social Feedback in Audio-mediated Communications"
+  year: "2013"
+  venue: In <i>Proc. of INTERACT'13</i> 
+  info: "AC rate: 31%"
+  file:
+    - url: "Rajan_INTERACT13.pdf"
+
+- paper:
+  authors: Tsai, W.-C. <b>Hsiao, J. C.-Y.</b>, Lee, H.-C., Huang, C.-H., Hu, J.-C., Liang, R.-H., and Hsu, Y.-J.
+  title: "Designing a Reminiscence Aid in Personal Soundscape"
+  year: "2013"
+  venue: In <i>Proc. of IASDR'13</i>
+  file:
+    - url: "Tsai_IASDR13.pdf"

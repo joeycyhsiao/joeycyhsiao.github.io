@@ -1,0 +1,49 @@
+- paper:
+  authors: <b>Hsiao, J. C.-Y.</b>, Dillahunt, T. R.
+  title: "Detecting Life Changes: Increasing Opportunities to Benefit from People-Nearby Applications"
+  year: 2017
+  venue: "Presented at CHI 2017"
+  info: "Presenter"
+  type: "extended abstract"
+  file:
+    - url: "Hsiao_CHIEA17.pdf"
+
+- paper:
+  authors: <b>Hsiao, J. C.-Y.</b>, Pan, M.-H., Wang, H.-C., and Hsu, Y.-J.
+  title: "The Price of the Priceless: Understanding Estimated Costs of Work in Friendsourcing"
+  year: 2015
+  venue: "Presented at CHI 2015"
+  info: "Presenter"
+  type: "extended abstract"
+  file:
+    - url: "Hsiao_CHIEA15.pdf"
+
+- paper:
+  authors: Tsai, W.-C., Lee, H.-C., <b>Hsiao, J. C.-Y.</b>, Liang, R.-H., and Hsu, Y.-J. 
+  title: "Framing Design of Reminiscence Aids with Transactive Memory Theory"
+  year: "2013"
+  venue: "Presented at CHI 2013"
+  type: "extended abstract"
+  file:
+    - url: "Tsai_CHIEA13.pdf"
+
+- paper:
+  authors: Tsai, W.-C., <b>Hsiao, J. C.-Y.</b>, Lee, H.-C., Huang, C.-H., and Hsu, Y.-J.
+  title: "In Search of Lost Sounds: Designing a Reminiscence Aid in Everyday Soundscape"
+  year: "2012"
+  venue: "Presented at DIS'12"
+  type: "paper"
+  file:
+    - url: "Tsai_DIS12.pdf"
+
+- paper:
+  authors: <b>Hsiao, J. C.-Y.</b>, Jih, W.-R., and Hsu, Y.-J. 
+  title: "Recognizing Continuous Social Engagement Level in Dyadic Conversation by Using Turn-taking and Speech Emotion Patterns"
+  year: "2012"
+  venue: "Presented at AAAI'12 Activity Context Representation (ACR) Workshop"
+  info: "Presenter"
+  type: "paper"
+  file:
+    - url: "Hsiao_ACRws12.pdf"
+
+
