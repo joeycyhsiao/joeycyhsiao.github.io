@@ -2,8 +2,10 @@
   authors: <b>Hsiao, J. C.-Y.</b> and Dillahunt, T. R.
   title: "Technology to Support Immigrant Access to Social Capital and Adaptation to a New Country"
   year: "2018"
-  venue: "To Appear at CSCW'18"
+  venue: To Appear in <i>Proc. of the ACM Human-Computer Interaction</i>, Vol. 2, CSCW, Article 70
   info: "AC rate: 25.6%"
+  file:
+    - url: "Hsiao_PACMHCI18.pdf"
 
 - paper:
   authors: <b>Hsiao, J. C.-Y.</b>, Moser, C., Schoenebeck, S., and Dillahunt, T. R.    

@@ -5,9 +5,9 @@
   description: "The key to successful adaptation for new immigrants in a new country is their social capital, or those resources embedded in their social networks. Research suggests that information and communication technologies (ICTs) foster immigrants' social capital and facilitate their adaptation. However, it is unclear what ICTs immigrants use to make social connections, and how these technology-mediated connections fulfill the needs for adaptation. This project aims to discover how and what types of ICTs support these newcomers in addressing their needs in settlement, employment, cutural adjustment, and stress in a new country." 
   publications: 
       - paper:
-        url: ""
-        type: "" 
-        venue: "Full Paper to Appear at CSCW 2018"
+        url: "Hsiao_PACMHCI18.pdf"
+        type: "Full Paper"
+        venue: "To Appear at ACM CSCW 2018"
 
   # - name: "Career Development and Social Learning in Hybrid Meetup Groups"
   #role: "Project Leader"
