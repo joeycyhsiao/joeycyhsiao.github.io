@@ -1,7 +1,7 @@
 - name: "Discovering People-Nearby Applications' Benefits for People who Face Life Transitions"
   role: "Project Leader" 
   responsibility: "Study design, study execution, data analysis, article writing"
-  description: "People-nearby applications (PNAs) are social-matching systems that allow users to connect with strangers in real time and around the world based on their geographical location. However, little is known how the mechanism of PNAs supports populations who needs resources from these new connections. This project aims to explore how PNAs benifit users in terms of social and cultural capital for people who face life transitions."
+  description: "People-nearby applications (PNAs) are social-matching systems that allow users to connect with strangers in real time and around the world based on their geographical location. However, little is known about how the mechanism of PNAs supports populations who need resources from these new connections. This project aims to explore how PNAs benefit users in terms of social and cultural capital for people who face life transitions."
   img: "PNA_newcomer.png"
   publications:
       - paper: 
