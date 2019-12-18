@@ -8,16 +8,23 @@
         url: "Hsiao_PACMHCI18.pdf"
         type: "Full Paper"
         venue: "ACM CSCW 2018"
-
-  # - name: "Career Development and Social Learning in Hybrid Meetup Groups"
-  #role: "Project Leader"
-  #responsibility: "Study design"
-  #img: "career_hybrid.png"
-  #description: "In the U.S., there are approximately 30,000 meetup groups for career development, skill learning, and networking, which are supported by hybrid community platforms such as meetup.com. Although prior research suggests that job seekers' social networks are crucial to their success in job seeking, it is unclear how these hybrid meetup groups support the purpose. Therefore, studying job seekers in hybrid meetup groups would help guide development of a better online system for career development. The primary objective of the study is to discover how the context of hybrid meetup groups can benefit job seekers. Secondary objectives include 1) identifying other stakeholders within the events and what kind of social relationships they create with the job seekers, 2) examining the sustainability of the social relationships in the group with offline events."
-
+      - paper:
+        url: "Hsiao_CSCWDC19.pdf"
+        type: "Extended Abstract"
+        venue: "ACM CSCW 2019 Doctoral Consortium"
+      - paper:
+        url: "Haimson_CSCWEA19.pdf"
+        type: "Extended Abstract"
+        venue: "ACM CSCW 2019 Workshop Proposal"
 
 - name: "Designing Next-Generational Employment Tools for Underserved Job Seekers"
   role: "Project Manager"
   responsibility: "Study design, data analysis, article writing"
   img: "emp_tools.png"
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resourced job seekers."
+  publications:
+      - paper:
+        url: "#"
+        type: "Full Paper"
+        venue: "To appear in ACM CHI 2020"
+

@@ -2,9 +2,21 @@
   authors: <b>Hsiao, J. C.-Y.</b>
   title: "Fostering Immigrants’ Trust in Online Local Social Exchange"
   year: 2019
-  venue: "To be presented at CSCW 2019 Doctoral Consortium"
+  venue: "Presented at CSCW 2019 Doctoral Consortium"
   info: "Presenter"
   type: "extended abstract"
+  file:
+    - url: "Hsiao_CSCWDC19.pdf"
+
+- paper:
+  authors: Haimson, O. L., Semaan, B., Dym, B., <b>Hsiao, J. C.-Y,</b>, Herron, D., and Moncur, W.
+  title: "Life Transitions and Social Technologies: Research and Design for Times of Life Change"
+  year: 2020
+  venue: "Workshop proposal at CSCW 2019"
+  info: "Co-organizer"
+  type: "extended abstract"
+  file:
+    - url: "Haimson_CSCWEA19.pdf"
 
 - paper:
   authors: <b>Hsiao, J. C.-Y.</b>, Dillahunt, T. R.
