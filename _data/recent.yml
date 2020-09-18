@@ -18,7 +18,7 @@
         venue: "ACM CSCW 2019 Workshop Proposal"
 
 - name: "Designing Next-Generational Employment Tools for Underserved Job Seekers"
-  role: "Project Manager"
+  role: "Project Leader"
   responsibility: "Study design, data analysis, article writing"
   img: "emp_tools.png"
   description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resourced job seekers."
@@ -26,5 +26,5 @@
       - paper:
         url: "#"
         type: "Full Paper"
-        venue: "To appear in ACM CHI 2020"
+        venue: "ACM CHI 2020"
 

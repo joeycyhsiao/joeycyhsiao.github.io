@@ -1,9 +1,17 @@
 - paper:
   authors: Dillahunt T. R. and <b>Hsiao, J. C.-Y.</b>.
+  title: "SkillsIdentifier: A Tool to Promote Career Identity and Self-efficacy Among Underrepresented Job Seekers"
+  year: "2021"
+  venue: To Appear in <i>Proc. of HICSS'21</i>
+
+- paper:
+  authors: Dillahunt T. R. and <b>Hsiao, J. C.-Y.</b>.
   title: "Positive Feedback and Self-reflection: Features to Support Self-efficacy among Resource-constrained Job Seekers"
   year: "2020"
-  venue: To appear in <i>Proc. of CHI'20</i>
+  venue: In <i>Proc. of CHI'20</i>
   info: "AC rate: 24.3%"
+  file:
+    - url: "Dillahunt_CHI20.pdf"
 
 - paper:
   authors: <b>Hsiao, J. C.-Y.</b> and Dillahunt, T. R.
