@@ -1,6 +1,5 @@
 - name: "Newly Arrived Immigrants' Technology Use for Adaptation Needs"
-  role: "Project Leader"
-  responsibility: "Study design, study execution, data analysis, article writing"
+  role: "Project Leader - research design, research execution, project management, data analysis, article writing"
   img: "immigrant_ICT.png"
   description: "The key to successful adaptation for new immigrants in a new country is their social capital, or those resources embedded in their social networks. Research suggests that information and communication technologies (ICTs) foster immigrants' social capital and facilitate their adaptation. However, it is unclear what ICTs immigrants use to make social connections, and how these technology-mediated connections fulfill the needs for adaptation. This project aims to discover how and what types of ICTs support these newcomers in addressing their needs in settlement, employment, cutural adjustment, and stress in a new country." 
   publications: 
@@ -18,13 +17,26 @@
         venue: "ACM CSCW 2019 Workshop Proposal"
 
 - name: "Designing Next-Generational Employment Tools for Underserved Job Seekers"
-  role: "Project Leader"
-  responsibility: "Study design, data analysis, article writing"
+  role: "Leading Research Assistant - research design, project management, research execution, data analysis, article writing"
   img: "emp_tools.png"
-  description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the many benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resourced job seekers."
+  description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resourced job seekers."
   publications:
       - paper:
         url: "#"
         type: "Full Paper"
+        venue: "To Appear in HICSS 2021"
+      - paper:
+        url: "Dillahunt_CHI20.pdf"
+        type: "Full Paper"
         venue: "ACM CHI 2020"
+
+- name: "Exploring Information Needs Sparked by Email"
+  role: "Yahoo UX Research Intern: research design, research execution, data analysis, article writing"
+  img: "email_info_needs.png"
+  description: "Personal email accounts have transitioned from an interpersonal communication tool to a business-to-consumer communication channel in the past decade. Emails that come to personal email accounts are largely from businesses and often inspire users to look for information beyond the message, such as a product's details on an online store. This project employed mixed-method research to discover what these information needs are and what contextual factors may affect them.
+"
+
+
+
+
 

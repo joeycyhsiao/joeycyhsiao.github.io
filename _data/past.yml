@@ -1,6 +1,5 @@
 - name: "Discovering People-Nearby Applications' Benefits for People who Face Life Transitions"
-  role: "Project Leader" 
-  responsibility: "Study design, study execution, data analysis, article writing"
+  role: "Project Leader - research design, project management, research execution, data analysis, article writing"
   description: "People-nearby applications (PNAs) are social-matching systems that allow users to connect with strangers in real time and around the world based on their geographical location. However, little is known about how the mechanism of PNAs supports populations who need resources from these new connections. This project aims to explore how PNAs benefit users in terms of social and cultural capital for people who face life transitions."
   img: "PNA_newcomer.png"
   publications:
@@ -14,8 +13,7 @@
         venue: "ACM CHI 2017"
        
 - name: "Examining Factors Influencing Participation in the Sharing Economy"
-  role: "Research Assitant"
-  responsibility: "Data analysis and article writing"
+  role: "Research Assitant - data analysis and article writing"
   img: "factor_SE.png"
   description: "The digital sharing economy has introduced opportunities for economic growth, productivity, and technological innovation. However, the adoption of sharing economy applications may be inaccessible to certain demographics, including older adults, low-income adults, and individuals who are not college educated. This research investigates how the demographic factors, and the other two key factors - trust, and technology proficiency, are associated with an individual's participation in the sharing economy." 
   publications:
