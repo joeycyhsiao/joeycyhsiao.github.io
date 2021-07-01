@@ -1,8 +1,20 @@
 - paper:
-  authors: Dillahunt T. R. and <b>Hsiao, J. C.-Y.</b>.
+  authors: Cherubini, M., Lu, A. J., <b>Hsiao, J. C.-Y.</b>, Zhao, M., Aggarwal, A., and Dillahunt, T. R.
+  title: "Elucidating Skills for Job Seekers: Insights and Critical Concerns from a Field Deployment in Switzerland"
+  year: "2021"
+  venue: In <i>Proc. of DIS'21</i>
+
+- paper:
+  authors: Dillahunt, T. R., Israni A., Lu A. J., Cai M., <b>Hsiao, J. C.-Y.</b>
+  title: "Examining the Use of Online Platforms for Employment: A Survey of US Job Seekers"
+  year: "2021"
+  venue: In <i>Proc. of CHI'21</i>
+
+- paper:
+  authors: Dillahunt, T. R. and <b>Hsiao, J. C.-Y.</b>.
   title: "SkillsIdentifier: A Tool to Promote Career Identity and Self-efficacy Among Underrepresented Job Seekers"
   year: "2021"
-  venue: To Appear in <i>Proc. of HICSS'21</i>
+  venue: In <i>Proc. of HICSS'21</i>
 
 - paper:
   authors: Dillahunt T. R. and <b>Hsiao, J. C.-Y.</b>.
