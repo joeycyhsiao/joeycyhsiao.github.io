@@ -3,6 +3,7 @@
   title: "Exploring Email-Prompted Information Needs"
   year: "2021"
   venue: To Appear in <i>Proc. of the ACM Human-Computer Interaction</i>, Vol. 5, CSCW 2
+  info: "Honorable Mention; Presenter"
   file:
     - url: "Hsiao_PACMHCI21_preprint.pdf"
 
@@ -24,7 +25,7 @@
     - url: "Dillahunt_CHI21.pdf"
 
 - paper:
-  authors: Dillahunt, T. R. and <b>Hsiao, J. C.-Y.</b>.
+  authors: Dillahunt, T. R. and <b>Hsiao, J. C.-Y.</b>
   title: "SkillsIdentifier: A Tool to Promote Career Identity and Self-efficacy Among Underrepresented Job Seekers"
   year: "2021"
   info: "Presenter"
@@ -33,7 +34,7 @@
     - url: "Dillahunt_HICSS21.pdf"
 
 - paper:
-  authors: Dillahunt T. R. and <b>Hsiao, J. C.-Y.</b>.
+  authors: Dillahunt T. R. and <b>Hsiao, J. C.-Y.</b>
   title: "Positive Feedback and Self-reflection: Features to Support Self-efficacy among Resource-constrained Job Seekers"
   year: "2020"
   venue: In <i>Proc. of CHI'20</i>
