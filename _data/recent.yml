@@ -20,27 +20,4 @@
         type: "Extended Abstract"
         venue: "ACM CSCW 2019 Workshop Proposal"
 
-- name: "Designing Next-Generational Employment Tools for Underserved Job Seekers"
-  role: "Leading Research Assistant - research design, project management, research execution, data analysis, article writing"
-  img: "emp_tools.png"
-  description: "The ubiquity of technologies such as robotics, artificial intelligence, and the Internet of Things have changed the nature of work. Despite the benefits created by these technologies, these transformations in the employment landscape have posed challenges for job seekers, especially those with limited education and low resources. This research investigates how digital tools should be designed and implemented to support employment among low-resourced job seekers."
-  publications:
-      - paper:
-        url: "Cherubini_DIS21.pdf"
-        type: "Full Paper"
-        venue: "ACM DIS 2021"
-      - paper:
-        url: "Dillahunt_CHI21.pdf"
-        type: "Full Paper"
-        venue: "ACM CHI 2021"
-      - paper:
-        url: "Dillahunt_HICSS21.pdf"
-        type: "Full Paper"
-        venue: "HICSS 2021"
-      - paper:
-        url: "Dillahunt_CHI20.pdf"
-        type: "Full Paper"
-        venue: "ACM CHI 2020"
-
-
 
