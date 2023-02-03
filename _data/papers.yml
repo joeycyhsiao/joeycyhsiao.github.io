@@ -1,11 +1,35 @@
 - paper:
+  authors: <b>Hsiao, J. C.-Y.</b>, Darling, S., and Dillahunt, T. R.
+  title: "How Recent Migrants Develop Trust Through Community Commerce: The Emergence of Sociotechnical Adaptation"
+  year: "2023"
+  venue: To Appear in <i>Proc. of the ACM Human-Computer Interaction</i>, Vol. 7, CSCW 1
+  file:
+    - url: "Hsiao_PACMHCI23_preprint.pdf"
+
+- paper:
+  authors: Lu, A. J., Gilhool, A., <b>Hsiao, J. C.-Y.</b> and Dillahunt, T. R.
+  title: "Emotional Labor in Everyday Resilience: Class-based Experiences of Navigating Unemployment Amid the COVID-19 Pandemic in the US"
+  year: "2022"
+  venue: In <i>Proc. of the ACM Human-Computer Interaction</i>, Vol. 6, CSCW 2
+  file:
+    - url: "Lu_PACMHCI22.pdf"
+
+- paper:
+  authors: Dillahunt, T. R., Rodrigues, L. S., <b>Hsiao, J. C.-Y.</b> and Cherubini, M.
+  title: "Self-regulation and Autonomy in the Job Search: Key Factors to Support Job Search among Swiss Job Seekers"
+  year: "2021"
+  venue: In <i>Interacting with Computers</i>, Vol. 33., No. 5
+  file:
+    - url: "Dillahunt_IwC21.pdf"
+
+- paper:
   authors: <b>Hsiao, J. C.-Y.</b> and Bentley, F.
   title: "Exploring Email-Prompted Information Needs"
   year: "2021"
   venue: In <i>Proc. of the ACM Human-Computer Interaction</i>, Vol. 5, CSCW 2
-  info: "Honorable Mention; Presenter"
+  info: "<b>Honorable Mention</b>; Presenter"
   file:
-    - url: "Hsiao_PACMHCI21_preprint.pdf"
+    - url: "Hsiao_PACMHCI21.pdf"
 
 - paper:
   authors: Cherubini, M., Lu, A. J., <b>Hsiao, J. C.-Y.</b>, Zhao, M., Aggarwal, A., and Dillahunt, T. R.
